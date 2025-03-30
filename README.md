@@ -6,7 +6,9 @@
 
 # Introduction
 
-This project marks the beginning of my research journey, which I started after my second semester at Purdue. At the time, my knowledge of machine learning was limited. However, under the guidance of Professor Vhaduri, I gained a lot of valuable experience throughout this project. While I don't consider it groundbreaking, I wanted to share it with you. If you're interested, below is the link to the paper. `train.py` is a code snippet of the training process.
+This project marks the beginning of my research journey, which I started after my second semester at Purdue. At the time, my knowledge of machine learning was limited. However, under the guidance of Professor Vhaduri, I gained a lot of valuable experience throughout this project. While I don't consider it groundbreaking, I wanted to share it with you.
+
+In this project, we developed an authentication model that verifies a user’s identity using their heart rate data (measured in beats per minute). We used a feature we refer to as the eigenheart to perform the verification task. The file `train.py` contains the code snippet for the training process.
 
 # Tech Stack
 

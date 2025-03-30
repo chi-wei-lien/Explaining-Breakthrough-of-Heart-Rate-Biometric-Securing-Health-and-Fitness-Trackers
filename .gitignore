@@ -1,3 +1,6 @@
 __pycache__
-Demo Performance
 trained_model.sav
+venv
+best_params.xlsx
+confusion_matrix.xlsx
+summary.xlsx

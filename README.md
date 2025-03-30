@@ -2,6 +2,7 @@
 
 - [Introduction](#introduction)
 - [Tech Stack](#tech-stack)
+- [How to Run](#how-to-run)
 - [Link to Paper](#link-to-paper)
 
 # Introduction
@@ -16,6 +17,21 @@ In this project, we developed an authentication model that verifies a user’s i
 - Scikit-learn
 - Matplotlib
 - Pandas
+
+# How to Run
+
+1. Install the required dependencies. It is recommended to install them in a virtual environment.
+   ```sh
+   pip install -r requirements.txt
+   ```
+2. Run `train.py`. If you're using a virtual environment, make sure to activate it first.
+   ```sh
+   python train.py
+   ```
+3. After running the script, you should see the following three files generated:
+   - `best_params.xlsx`: Contains the best hyperparameters found using hyperparameter optimization with 5-fold cross validation.
+   - `confusion_matrix.xlsx`: Contains the results of the confusion matrix.
+   - `summary.xlsx`: Contains the training summary.
 
 # Link to Paper
 
